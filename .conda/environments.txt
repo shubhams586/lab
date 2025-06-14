@@ -1,0 +1,4 @@
+C:\Users\vaish\anaconda3
+C:\Users\vaish\anaconda3\envs\py3env
+C:\Users\vaish\OneDrive\Desktop\projects\py3env
+c:\Users\vaish\OneDrive\Desktop\projects\py3env
